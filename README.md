@@ -45,4 +45,4 @@ Caso opte por fazer um Pull-Request, deixe ele explicativo apontando tudo que pr
 
 Qualquer dúvida técnica, envie uma mensagem para viniciusmaia.tx@gmail.com.
 
-Você terá 3 dias para fazer esse teste, a partir do contato de nosso RH. Boa sorte!
+Você terá 3 dias para fazer esse teste, a partir do recebimento deste desafio. Sucesso!
