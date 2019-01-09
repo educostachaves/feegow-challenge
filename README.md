@@ -14,17 +14,18 @@ O sistema deverá também ter uma área que listará todos as mensagens enviadas
 
 Os pré-requisitos para a aplicação:
 
-- Laravel, 5.4 ou superior.
+- Use o PHP como linguagem backend, de preferencia a partir da versão 7.
 - Usar Bootstrap ou qualquer framework front-end de sua preferência.
 - Banco deve ser relacional, de preferencia MySQL
 - Documentação sucinta e explicativa de como rodar seu código e levantar os ambientes.
 
 ## O que gostaríamos de ver (se der tempo)
 
+- Uso de um framework MVC PHP (Laravel, CodeIgniter, Symphony, etc)
 - Teste unitários.
 - Pre-processadores de front (Gulp, Grunt ou Webpack).
 - Aplicação rodando em Docker Containers.
-- CRUD completo e funcional, primeiramente do formulário, e usuários como um plus.
+- CRUD completo e funcional, primeiramente da entidade Formulário, e Usuários como um plus.
 
 ## Avaliação
 
